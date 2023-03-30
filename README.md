@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://idolize.github.io/xcloud-keyboard-mouse/"><img src="public/icon-128.png" alt="Logo" /></a>
+  <a href="https://idolize.github.io/xcloud-keyboard-mouse/"><img src="docs/assets/icon-128.png" alt="Logo" /></a>
 </p>
 
 <h1 align="center">Keyboard & Mouse for xCloud</h1>
