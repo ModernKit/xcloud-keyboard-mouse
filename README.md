@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://idolize.github.io/xcloud-keyboard-mouse/"><img src="docs/assets/icon-128.png" alt="Logo" /></a>
+  <a href="https://modernkit.one/xcloud-keyboard-mouse/"><img src="docs/assets/icon-128.png" alt="Logo" /></a>
 </p>
 
 <h1 align="center">Keyboard & Mouse for xCloud</h1>
@@ -77,10 +77,8 @@ There is no added input delay introduced by this extension - all keyboard/mouse 
 
 ## Show your support
 
-Like this extension? Why not [buy me a coffee](https://www.buymeacoffee.com/idolize)? I really appreciate it!
-
-You can also purchase the premium version directly inside the extension 🙏
+You also purchase the premium version directly inside the extension 🙏
 
 ## Need help?
 
-Feel free to [file an issue](https://github.com/idolize/xcloud-keyboard-mouse/issues), [post on Reddit](https://www.reddit.com/r/xcloudkeyboardmouse/), or [join the Discord discussion](https://discord.gg/5Jp9drge9m).
+Please contact support@modernkit.one for support.
