@@ -1,11 +1,11 @@
 blank_issues_enabled: false
 contact_links:
-  - name: For support, please contact us via email: support@modernkit.one
-    url: support@modernkit.one
+  - name: "Email: Please email support@modernkit.one for fastest support"
+    url: "https://modernkit.one/xcloud-keyboard-mouse/support/"
     about: For the fastest support about bugs, payments, or feedback, please contact us via email.
-  - name: Community support: Discuss on Discord
+  - name: "Community: Discuss on Discord (not recommended for bugs or payment issues)"
     url: https://discord.gg/5Jp9drge9m
-    about: Chat directly with other community members. This will be slower and we may not see your issue.
-  - name: Community support: Discuss on Reddit
+    about: Chat directly with other community members. This will be slower and we may not see your message.
+  - name: "Community: Discuss on Reddit (not recommended for bugs or payment issues)"
     url: https://www.reddit.com/r/xcloudkeyboardmouse/
-    about: Ask questions and discuss with other community members. This will be slower and we may not see your issue.
+    about: Ask questions and discuss with other community members. This will be slower and we may not see your post.
