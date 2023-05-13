@@ -1,7 +1,7 @@
 blank_issues_enabled: false
 contact_links:
   - name: "Email: Please email support@modernkit.one for fastest support"
-    url: "https://modernkit.one/xcloud-keyboard-mouse/support/?utm_source=github-repon&utm_medium=issue-template&utm_content=issue-template-link"
+    url: "https://modernkit.one/xcloud-keyboard-mouse/support/?utm_source=github-repo&utm_medium=issue-template&utm_content=issue-template-link"
     about: For the fastest support about bugs, payments, or feedback, please contact us via email.
   - name: "Community: Discuss on Discord (not recommended for bugs or payment issues)"
     url: https://discord.gg/5Jp9drge9m
